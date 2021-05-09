@@ -1,0 +1,3 @@
+/media/gabriel/HD/Documentos HD/UNIR/Computação Grafica/PRATICAS/Pratica 3/Clion_OpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/gabriel/HD/Documentos HD/UNIR/Computação Grafica/PRATICAS/Pratica 3/Clion_OpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/gabriel/HD/Documentos HD/UNIR/Computação Grafica/PRATICAS/Pratica 3/Clion_OpenGL/cmake-build-debug/CMakeFiles/Clion_OpenGL.dir
