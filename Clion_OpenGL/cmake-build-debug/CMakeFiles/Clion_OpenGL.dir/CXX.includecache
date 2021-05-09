@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tgaload.h
+
+/media/gabriel/HD/Documentos HD/UNIR/Computação Grafica/PRATICAS/Pratica 3/Clion_OpenGL/src/cpp/main.cpp
+GL/glew.h
+-
+GL/gl.h
+-
+GL/freeglut.h
+-
+stdio.h
+-
+tgaload.h
+/media/gabriel/HD/Documentos HD/UNIR/Computação Grafica/PRATICAS/Pratica 3/Clion_OpenGL/src/cpp/tgaload.h
+
